@@ -1,0 +1,7 @@
+E:\CSE\Meh\Retail Product Management System\obj\Debug\Retail Product Management System.csproj.AssemblyReference.cache
+E:\CSE\Meh\Retail Product Management System\obj\Debug\Retail Product Management System.csproj.CoreCompileInputs.cache
+E:\CSE\Meh\Retail Product Management System\bin\Debug\Retail Product Management System.exe.config
+E:\CSE\Meh\Retail Product Management System\bin\Debug\Retail Product Management System.exe
+E:\CSE\Meh\Retail Product Management System\bin\Debug\Retail Product Management System.pdb
+E:\CSE\Meh\Retail Product Management System\obj\Debug\Retail Product Management System.exe
+E:\CSE\Meh\Retail Product Management System\obj\Debug\Retail Product Management System.pdb
