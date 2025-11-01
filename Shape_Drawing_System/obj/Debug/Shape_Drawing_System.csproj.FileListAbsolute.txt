@@ -1,0 +1,14 @@
+E:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.csproj.AssemblyReference.cache
+E:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.csproj.CoreCompileInputs.cache
+E:\CSE\Meh\Shape_Drawing_System\bin\Debug\Shape_Drawing_System.exe.config
+E:\CSE\Meh\Shape_Drawing_System\bin\Debug\Shape_Drawing_System.exe
+E:\CSE\Meh\Shape_Drawing_System\bin\Debug\Shape_Drawing_System.pdb
+E:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.exe
+E:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.pdb
+D:\CSE\Meh\Shape_Drawing_System\bin\Debug\Shape_Drawing_System.exe.config
+D:\CSE\Meh\Shape_Drawing_System\bin\Debug\Shape_Drawing_System.exe
+D:\CSE\Meh\Shape_Drawing_System\bin\Debug\Shape_Drawing_System.pdb
+D:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.csproj.AssemblyReference.cache
+D:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.csproj.CoreCompileInputs.cache
+D:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.exe
+D:\CSE\Meh\Shape_Drawing_System\obj\Debug\Shape_Drawing_System.pdb
