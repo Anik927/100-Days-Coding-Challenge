@@ -1,7 +1,0 @@
-D:\CSE\Meh\Ticket Booking System\bin\Debug\Ticket Booking System.exe.config
-D:\CSE\Meh\Ticket Booking System\bin\Debug\Ticket Booking System.exe
-D:\CSE\Meh\Ticket Booking System\bin\Debug\Ticket Booking System.pdb
-D:\CSE\Meh\Ticket Booking System\obj\Debug\Ticket Booking System.csproj.AssemblyReference.cache
-D:\CSE\Meh\Ticket Booking System\obj\Debug\Ticket Booking System.csproj.CoreCompileInputs.cache
-D:\CSE\Meh\Ticket Booking System\obj\Debug\Ticket Booking System.exe
-D:\CSE\Meh\Ticket Booking System\obj\Debug\Ticket Booking System.pdb
