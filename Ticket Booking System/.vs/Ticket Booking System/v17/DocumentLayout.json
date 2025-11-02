@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE\\Meh\\Ticket Booking System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|D:\\CSE\\Meh\\Ticket Booking System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|d:\\cse\\meh\\ticket booking system\\flightticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|solutionrelative:flightticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|D:\\CSE\\Meh\\Ticket Booking System\\trainticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|solutionrelative:trainticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|D:\\CSE\\Meh\\Ticket Booking System\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55658822-C5E2-40F4-B9C4-579695B4007B}|Ticket Booking System.csproj|solutionrelative:ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightTicket.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Ticket Booking System\\FlightTicket.cs",
+              "RelativeDocumentMoniker": "FlightTicket.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Ticket Booking System\\FlightTicket.cs",
+              "RelativeToolTip": "FlightTicket.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:28:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainTicket.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Ticket Booking System\\TrainTicket.cs",
+              "RelativeDocumentMoniker": "TrainTicket.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Ticket Booking System\\TrainTicket.cs",
+              "RelativeToolTip": "TrainTicket.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:28:27.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Ticket Booking System\\Ticket.cs",
+              "RelativeDocumentMoniker": "Ticket.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Ticket Booking System\\Ticket.cs",
+              "RelativeToolTip": "Ticket.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:28:21.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Ticket Booking System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Ticket Booking System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:27:55.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
