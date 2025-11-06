@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961154E3-B287-45CB-ADE4-6C124B04C0CF}|Student and Assignments.csproj|D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961154E3-B287-45CB-ADE4-6C124B04C0CF}|Student and Assignments.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961154E3-B287-45CB-ADE4-6C124B04C0CF}|Student and Assignments.csproj|D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\assingment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961154E3-B287-45CB-ADE4-6C124B04C0CF}|Student and Assignments.csproj|solutionrelative:assingment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961154E3-B287-45CB-ADE4-6C124B04C0CF}|Student and Assignments.csproj|d:\\cse\\meh\\final ass\\student and assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961154E3-B287-45CB-ADE4-6C124B04C0CF}|Student and Assignments.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:14:52.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assingment.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\Assingment.cs",
+              "RelativeDocumentMoniker": "Assingment.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\Assingment.cs",
+              "RelativeToolTip": "Assingment.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:14:38.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Final Ass\\Student and Assignments\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:11:53.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

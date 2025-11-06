@@ -1,0 +1,7 @@
+D:\CSE\Meh\Student and Assignments\obj\Debug\Student and Assignments.csproj.AssemblyReference.cache
+D:\CSE\Meh\Student and Assignments\obj\Debug\Student and Assignments.csproj.CoreCompileInputs.cache
+D:\CSE\Meh\Student and Assignments\bin\Debug\Student and Assignments.exe.config
+D:\CSE\Meh\Student and Assignments\bin\Debug\Student and Assignments.exe
+D:\CSE\Meh\Student and Assignments\bin\Debug\Student and Assignments.pdb
+D:\CSE\Meh\Student and Assignments\obj\Debug\Student and Assignments.exe
+D:\CSE\Meh\Student and Assignments\obj\Debug\Student and Assignments.pdb
