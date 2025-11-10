@@ -1,0 +1,7 @@
+D:\CSE\Meh\Student and LibraryCard\bin\Debug\Student and LibraryCard.exe.config
+D:\CSE\Meh\Student and LibraryCard\bin\Debug\Student and LibraryCard.exe
+D:\CSE\Meh\Student and LibraryCard\bin\Debug\Student and LibraryCard.pdb
+D:\CSE\Meh\Student and LibraryCard\obj\Debug\Student and LibraryCard.csproj.AssemblyReference.cache
+D:\CSE\Meh\Student and LibraryCard\obj\Debug\Student and LibraryCard.csproj.CoreCompileInputs.cache
+D:\CSE\Meh\Student and LibraryCard\obj\Debug\Student and LibraryCard.exe
+D:\CSE\Meh\Student and LibraryCard\obj\Debug\Student and LibraryCard.pdb

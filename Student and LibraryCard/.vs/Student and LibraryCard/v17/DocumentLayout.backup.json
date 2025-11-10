@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED50E88D-5EDC-4786-8E85-F27A49AEE3EE}|Student and LibraryCard.csproj|D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED50E88D-5EDC-4786-8E85-F27A49AEE3EE}|Student and LibraryCard.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED50E88D-5EDC-4786-8E85-F27A49AEE3EE}|Student and LibraryCard.csproj|D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED50E88D-5EDC-4786-8E85-F27A49AEE3EE}|Student and LibraryCard.csproj|solutionrelative:librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED50E88D-5EDC-4786-8E85-F27A49AEE3EE}|Student and LibraryCard.csproj|d:\\cse\\meh\\final ass\\student and librarycard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED50E88D-5EDC-4786-8E85-F27A49AEE3EE}|Student and LibraryCard.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:36:48.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryCard.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryCard.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:28:24.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE\\Meh\\Final Ass\\Student and LibraryCard\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:00:59.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
